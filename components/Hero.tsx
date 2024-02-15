@@ -58,7 +58,7 @@ export default function Hero() {
               Start For Free <ArrowRightIcon />
             </Button>
           </Link>
-          <Link href={"https://www.github.com"} target="_blank">
+          <Link href={"https://github.com/TheHamzaDev/Nuro-AI"} target="_blank">
             <Button
               className="flex gap-x-2 shadow-md w-48 sm:w-auto"
               size="lg"
