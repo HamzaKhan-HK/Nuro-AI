@@ -90,7 +90,7 @@ export default function Testimonials() {
       <motion.div
         initial={{ y: "40px", opacity: 0 }}
         whileInView={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.4, delay: 0.4 }}
+        transition={{ duration: 0.4, delay: 0.2 }}
         viewport={{ once: true }}
       >
         <CompanyLogos />
