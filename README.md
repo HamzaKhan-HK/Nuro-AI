@@ -1,3 +1,6 @@
+# Nuro AI
+
+![Safari (Big Sur) - Dark](https://github.com/TheHamzaDev/Nuro-AI/assets/143728239/2359b36a-eed8-42f1-86c0-8c2d5372d0c6)
 
 ## Getting Started
 
